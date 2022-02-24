@@ -1,7 +1,5 @@
-### Hi there 👋
 
-<!--
-**prdarm/Prdarm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prdarm/Prdarm**เป็นโปรแกรมที่จัด✨ _special_ ✨ `README.md`
 
 Here are some ideas to get you started:
 
